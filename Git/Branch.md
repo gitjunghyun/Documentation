@@ -41,11 +41,11 @@ Branch
 	이 때 공통의 조상이 되는 커밋을 Git이 자동으로 찾아 준다.  
 	3-way merge를 실행하면 부모커밋이 2개인 새로운 커밋이 생성되고 메인브랜치는 이 커밋을 가리키게 된다.
 
-![머지실행전](3waymerge_before.png)
+![머지실행전](img/3waymerge_before.png)
 
 **before**
 
-![머지실행후](3waymerge_after.png)
+![머지실행후](img/3waymerge_after.png)
 
 **after**
 
@@ -68,7 +68,7 @@ Branch
 -	topic 브랜치는 develop브랜치보다 앞서 개발되는 내용을 담는다.  
 	hotfix브랜치도 topic브랜치의 한 종류로 볼 수 있다.
 
-![브랜치워크플로우](branchworkflow.png)
+![브랜치워크플로우](img/branchworkflow.png)
 
 ### Remote Branch
 
@@ -79,7 +79,7 @@ Branch
 
 -	로컬과 서버의 커밋 히스토리는 독립적으로 이루어진다.
 
-![리모트브랜치](remotebranch.png)
+![리모트브랜치](img/remotebranch.png)
 
 -	위 그림은 로컬에 리모트서버의 브랜치들을 페치한 결과이다. 로컬에서 작업하던 내용은 새로운 라인으로 독립되어 나왔고 리모트서버에 새로 추가된 작업은 덧붙여져서 표시된다.
 

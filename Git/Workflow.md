@@ -17,7 +17,7 @@ Workflow의 종류
 
 -	개발자에게 가장 익숙한 형태로 거부감이 없다.
 
-![중앙집중형워크플로우](centralizedworkflow.png)
+![중앙집중형워크플로우](img/centralizedworkflow.png)
 
 ### Integration-Manager Workflow
 
@@ -33,7 +33,7 @@ Workflow의 종류
 
 -	매니저는 다른 개발자들의 저장소에서 데이터를 가져온 후 그것을 머지하고 테스트한 후 메인 저장소에 push한다.
 
-![완성매니저형워크플로우](integrationmanagerworkflow.png)
+![완성매니저형워크플로우](img/integrationmanagerworkflow.png)
 
 ### Dictator Lieutenants Workflow
 
@@ -45,4 +45,4 @@ Workflow의 종류
 
 -	중간 관리자들이 머지하고 push한 데이터를 최종 관리자가 다시 merge하여 메인저장소에 push한다.
 
-![군대식워크플로우](dictatorlieutenantsworkflow.png)
+![군대식워크플로우](img/dictatorlieutenantsworkflow.png)

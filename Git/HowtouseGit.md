@@ -17,7 +17,7 @@ Git 사용법
 	-	Modified : Unmodified상태에서 사용자가 수정한 상태
 	-	Staged : 커밋하기 직전의 상태
 
-![Git의 파일 상태](filestatus.png)
+![Git의 파일 상태](img/filestatus.png)
 
 ### 파일 무시하기
 
@@ -35,7 +35,7 @@ Git 사용법
 
 -	다양한 명령어 옵션을 통해서 commit history을 확인 할 수 있다.
 
-![커밋히스토리](commithistory.png)
+![커밋히스토리](img/commithistory.png)
 
 -	GUI도구를 사용하면 시각화된 commit history 를 조회 할 수 있다.
 
