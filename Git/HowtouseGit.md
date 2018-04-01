@@ -35,7 +35,7 @@ Git 사용법
 
 -	다양한 명령어 옵션을 통해서 commit history을 확인 할 수 있다.
 
-![커밋히스토리](img/commithistory.png)
+![커밋히스토리](img/commithistory.PNG)
 
 -	GUI도구를 사용하면 시각화된 commit history 를 조회 할 수 있다.
 
