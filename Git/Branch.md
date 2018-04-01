@@ -13,7 +13,7 @@ Branch
 	-	tree : 파일과 디렉토리구조가 들어있는 데이터
 	-	commit : 메타데이터와 트리를 가리키는 포인터를 담은 커밋 개체
 
-![커밋구조](commit.png)
+![커밋구조](img/commit.png)
 
 -	commit 개체 하나하나가 스냅샷으로 저장된다.
 
@@ -29,7 +29,7 @@ Branch
 	따라서 새로만든 브랜치는 master에서 뻗어나와 독립적인 작업을 하는 브랜치가 된다.  
 	master브랜치에서 원래 하던 작업을 이어 새로운 커밋을 하면 다음과 같은 상태가 된다.
 
-![독립적인 브랜치 생성](newbranch.png)
+![독립적인 브랜치 생성](img/newbranch.png)
 
 ### Branch Merge
 
