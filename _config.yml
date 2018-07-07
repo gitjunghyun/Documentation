@@ -1,14 +1,14 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          LeeU
+description:    "My Blog"
 baseurl:
 url:            "https://gitjunghyun.github.io"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         LeeU
+  url:          https://github.com/gitjunghyun
+  email:        leeu4728@gmail.com
 
 # Build settings
 markdown:       kramdown
@@ -20,9 +20,8 @@ sass:
 
 # Gems
 plugins:
-  - jekyll-paginate
-  # - jemoji #Uncomment this to allow emoji in your post
+  - jekyll-paginate # page 분할하는 plugin
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
-paginate:       100
+paginate:       5
